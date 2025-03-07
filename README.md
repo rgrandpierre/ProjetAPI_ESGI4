@@ -112,7 +112,3 @@ curl -X DELETE "http://127.0.0.1:8000/orders/1" \
 - FastAPI
 - OAuth2 JWT
 - Curl (pour les tests)
-
-📌 **Auteur :** _Votre Nom_
-📌 **Licence :** MIT
-
